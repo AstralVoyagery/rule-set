@@ -1,0 +1,27 @@
+# Arc浏览器
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,immersivetranslate.com
+DOMAIN-SUFFIX,pypestream.com
+DOMAIN-SUFFIX,jyshare.com
+
+# Brew包管理器
+DOMAIN-SUFFIX,influxdata.com
+
+# Raycast
+DOMAIN-SUFFIX,raycast.com
+DOMAIN-SUFFIX,ray.so
+
+# Surge
+DOMAIN-KEYWORD,surge
+DOMAIN,whatshub.top
+
+# kitty
+DOMAIN-SUFFIX,kovidgoyal.net
+
+DOMAIN-SUFFIX,claw.cloud
+DOMAIN-SUFFIX,zotero.org
+DOMAIN-SUFFIX,segment.com
+DOMAIN-SUFFIX,diygod.dev
+DOMAIN-SUFFIX,eppo.cloud
