@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,pypestream.com
 DOMAIN-SUFFIX,jyshare.com
+DOMAIN-SUFFIX,content.arc.net
+DOMAIN-SUFFIX,releases.arc.net
 
 # Brew包管理器
 DOMAIN-SUFFIX,influxdata.com
@@ -25,3 +27,9 @@ DOMAIN-SUFFIX,zotero.org
 DOMAIN-SUFFIX,segment.com
 DOMAIN-SUFFIX,diygod.dev
 DOMAIN-SUFFIX,eppo.cloud
+DOMAIN-SUFFIX,archive.biliimg.com
+DOMAIN-SUFFIX,static.doubleclick.net
+DOMAIN-SUFFIX,bagevm.com
+DOMAIN-SUFFIX,bagevm.net
+DOMAIN-SUFFIX,diabrowser.engineering
+DOMAIN-SUFFIX,cartocdn.com
